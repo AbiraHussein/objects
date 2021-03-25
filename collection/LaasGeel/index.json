@@ -1,0 +1,278 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://abirahussein.github.io/objects/collection/LaasGeel/index.json",
+	"@type": "sc:Manifest",
+	"label": "Laas Geel Rock Art",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://3c5cc773-4363-4bf1-be48-b41a2ed71368",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://b77fa2fa-66ae-4793-b42c-9655c82ced60",
+					"@type": "sc:Canvas",
+					"label": "Laas Geel Rock Art",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://09d063f0-d670-4a63-8d58-611bc7b15de7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0171_202103/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0171_202103",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://b77fa2fa-66ae-4793-b42c-9655c82ced60"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ef90e5e8-37ec-4a91-b1e5-3a981e07b7e3",
+					"@type": "sc:Canvas",
+					"label": "Laas Geel Rock Art",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://093e8671-1755-4c7a-93f7-9c2f93b131f6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0172.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0172.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://ef90e5e8-37ec-4a91-b1e5-3a981e07b7e3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1b2e2357-9d64-4edf-a182-b852a4c7a4eb",
+					"@type": "sc:Canvas",
+					"label": "Laas Geel Rock Art",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fe274dec-45fd-49f4-b938-800a398c24ae",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0173/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0173",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://1b2e2357-9d64-4edf-a182-b852a4c7a4eb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ea0ee5ec-c97a-423e-97b8-482692bd27d3",
+					"@type": "sc:Canvas",
+					"label": "Laas Geel Rock Art",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://20af8089-ae90-466a-8d1e-44b8699ef33b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0174.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0174.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://ea0ee5ec-c97a-423e-97b8-482692bd27d3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d2312b4a-4272-46c2-a251-53c0cbe900e8",
+					"@type": "sc:Canvas",
+					"label": "Laas Geel Rock Art",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1759e15d-8cf4-4811-8898-d77d335bb189",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0175.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0175.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://d2312b4a-4272-46c2-a251-53c0cbe900e8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://02c01836-acf3-459a-88b5-72e1db1228f3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fba87a38-5f9a-4e01-9dee-0abde5b56740",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0175.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0175.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://02c01836-acf3-459a-88b5-72e1db1228f3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4dbf16de-0717-470b-bc90-c333bbacc677",
+					"@type": "sc:Canvas",
+					"label": "Laas Geel Rock Art",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c9e33d3f-26fc-44a8-bcee-c4a14f7da111",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0178.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0178.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://4dbf16de-0717-470b-bc90-c333bbacc677"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ab6e10bb-b890-474f-93fc-1122a45203f1",
+					"@type": "sc:Canvas",
+					"label": "Laas Geel ",
+					"height": 5184,
+					"width": 3456,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://56bbed1c-9a42-41f2-a22a-cb905d62202a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0179.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/img-0173$IMG_0179.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 5184,
+								"width": 3456
+							},
+							"on": "http://ab6e10bb-b890-474f-93fc-1122a45203f1"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
